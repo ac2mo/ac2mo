@@ -13,7 +13,7 @@ This is a simple site to showcase who and what I am. It is a constant WIP and al
 ## Experience
 
 #### Freelancer
-#####(2006-Present)
+##### (2006-Present)
 
 #### [Erie 1 BOCES](https://www.e1b.org)
 ##### (2008-2016) - MCTSS
@@ -72,3 +72,12 @@ Despite being on a short hiatus (lack of equipment), I have spent years experime
 ## DIY Everything
 
 If it isn't obvious from previously listed hobbies, I'm an avid DIY-er. This extends well beyond the uber-technical realm, to vehicle repair and maintenance, home remodeling and even ocassionally concocting a unique recipe or two (most involve bacon, breakfast food is the best).
+
+# Gig Jobs
+- [Uber (UberX/Eats)](https://partners.uber.com/i/gregoryh4020ue)
+- Lyft
+- SkipTheDishes (No longer in the US)
+- Roadie
+- DoorDash
+- Shipt
+- Postmates
