@@ -5,15 +5,18 @@ This is a simple site to showcase who and what I am. It is a constant WIP and al
 # Online Presence
 
 - [Facebook](https://www.facebook.com/ghoernersr)
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/in/gregory-hoerner-42827425/)
+- [StackOverflow](https://stackoverflow.com/users/520941/ac2mo)
 
 # Resume
 
 ## Experience
 
-### Freelancer (2006-Present)
+#### Freelancer
+#####(2006-Present)
 
-### [Erie 1 BOCES](https://www.e1b.org) (2008-2016) - MCTSS
+#### [Erie 1 BOCES](https://www.e1b.org)
+##### (2008-2016) - MCTSS
 - Architechted and implemented Identity and Access Management solutions using the IBM/Tivoli IAM Suite
 - Administered various Linux based VMs providing a variety of services including Web, Database, E-Mail and DNS
 - Assisted in the maintenance of in-house web and server applications written in PHP, ASP (Classic), ASP.NET (C#), .NET C#, Java
@@ -21,10 +24,16 @@ This is a simple site to showcase who and what I am. It is a constant WIP and al
 
 ## Education
 
-### ITT Technical Institute (2001-2003) - Associates Degree - IT/Web Development
+#### ITT Technical Institute (2001-2003) - Associates Degree - IT/Web Development
 - Graduated with Honors
 
 ## Certifications/Courses
+- Automating Administration with Windows PowerShell (10961B)
+- Configuring and Troubleshooting Identity and Access Solutions with Windows Server 2008 Active Directory (6426C)
+- IBM Tivoli Directory Integrator 6.1 Overview (TO012)
+- Administering IBM Tivoli Directory Integrator 6.1 (TO013)
+- Building IBM Tivoli Directory Integrator 6.1 Solutions (TO010)
+- IBM Tivoli Identity Manager 5.1 Basic Implementation (TW251)
 
 # Portfolio
 
