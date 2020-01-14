@@ -77,7 +77,7 @@ If it isn't obvious from previously listed hobbies, I'm an avid DIY-er. This ext
 - [Uber (UberX/Eats)](https://partners.uber.com/i/gregoryh4020ue)
 - Lyft
 - SkipTheDishes (No longer in the US)
-- Roadie
+- [Roadie](https://promo.roadie.com/MVHI1p4Qe3)
 - DoorDash
 - Shipt
-- Postmates
+- [Postmates](https://pmfleet.app.link/3h853XOQe3)
